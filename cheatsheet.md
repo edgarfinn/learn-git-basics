@@ -23,3 +23,6 @@
 
 ##### creates a new branch and checks out to it at the same time
 		git checkout -b <branch name>
+
+##### add change to staging
+		git add <filename>
